@@ -38,7 +38,7 @@ python3 manage.py runserver
 
 ## For Search
 
-* GET ==> /api/product/?pname=<yoursearch>
+* GET ==> /api/product/?pname=[yoursearch]
 
 ## Obtain Jwt Token
 
