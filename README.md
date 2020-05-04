@@ -26,14 +26,20 @@ python3 manage.py runserver
 
 ## Endpoints
 
-GET ==> /api/product
-GET ==> /api/product/:id
-POST ==> /api/product
-PUT ==> /api/product/:id
-DELETE ==> /api/product/:id
+* GET ==> /api/product
+
+* GET ==> /api/product/:id
+
+* POST ==> /api/product
+
+* PUT ==> /api/product/:id
+
+* DELETE ==> /api/product/:id
 
 ## For Search
-GET ==> /api/product/?pname=<yoursearch>
+
+* GET ==> /api/product/?pname=<yoursearch>
 
 ## Obtain Jwt Token
-POST ==> api-token-auth/
+
+* POST ==> api-token-auth/
